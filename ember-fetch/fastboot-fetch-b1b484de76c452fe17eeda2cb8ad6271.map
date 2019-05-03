@@ -1,0 +1,1 @@
+{"version":3,"sources":["0"],"names":["define","self","fetch","FastBoot","require","Headers","Request","Response","Error"],"mappings":"AACEA,OAAO,QAAS,CAAC,WAAY,SAASC,GACpC,IAAIC,EAAQC,SAASC,QAAQ;AAC7BH,EAAc,QAAIC,EAClBD,EAAc,QAAIC,EAAMG,QACxBJ,EAAc,QAAIC,EAAMI,QACxBL,EAAe,SAAIC,EAAMK,WAG3BP,OAAO,aAAc,CAAC,WAAY,WAChC,MAAM,IAAIQ,MAAM","file":"fastboot-fetch.js"}

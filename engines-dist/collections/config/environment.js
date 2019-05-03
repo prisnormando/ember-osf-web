@@ -1,0 +1,3 @@
+define("collections/config/environment",function(){return{default:{environment:"production",hostAppName:"collections",modulePrefix:"collections",OSF:{shareSearchUrl:"https://share.osf.io/api/v2/search/creativeworks/_search",url:"http://localhost:5000/"},whiteListedProviders:["arXiv","bioRxiv","Cogprints","PeerJ","Research Papers in Economics","Preprints.org"],"ember-collapsible-panel":{hasLiquidFire:"0.29.3"}}}})
+
+//# sourceMappingURL=/ember-osf-web/engines-dist/collections/config/environment-42a57d98c7259ba91f2c6c57bfb515d9.map
